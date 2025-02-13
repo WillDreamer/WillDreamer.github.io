@@ -23,8 +23,8 @@ jobs:
         cd ./results
         git init
         git config --local user.name "${GITHUB_ACTOR}"
-        git config --local user.email "yidongwang37@gmail.com"
-        git config --local user.name "qianlanwyd"
+        git config --local user.email "whx@cs.ucla.edu"
+        git config --local user.name "WillDreamer"
         export remote_repo="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
         git add *.json
         git commit -m "Updated Citation Data"
