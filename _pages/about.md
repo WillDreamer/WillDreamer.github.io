@@ -39,21 +39,19 @@ Hello, I am Haixin Wang (汪海昕). I'm the first year CS PhD student at UCLA s
 - *2020.03 - 2020.09*, Tsinghua University.
 
 # 🔖 Selected Publications (* means equal contribution)
-- ``ICLR 2024`` **BENO: Boundary-embedded Neural Operators for Elliptic PDEs** [\[paper\]](https://openreview.net/forum?id=ZZTkLDRmkg&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2024%2FConference%2FAuthors%23your-submissions)), **Haixin Wang\***, Jiaxin Li\*, Anubhav Dwivedi, Kentaro Hara, and Tailin Wu.  
+- ``ICLR 2024``[BENO: Boundary-embedded Neural Operators for Elliptic PDEs](https://openreview.net/forum?id=ZZTkLDRmkg&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2024%2FConference%2FAuthors%23your-submissions)), **Haixin Wang\***, Jiaxin Li\*, Anubhav Dwivedi, Kentaro Hara, and Tailin Wu.  
 
-- ``NeurIPS 2023`` **IDEA: An Invariant Perspective for Efficient Domain Adaptive Image Retrieval**, **Haixin Wang**, Hao Wu, Jinan Sun, Shikun Zhang, Chong Chen, Xiao Luo, and Xiansheng Hua.  
+- ``NeurIPS 2023`` [IDEA: An Invariant Perspective for Efficient Domain Adaptive Image Retrieval](https://openreview.net/forum?id=77i6itptQW&noteId=UyhOBFv7gB), **Haixin Wang**, Hao Wu, Jinan Sun, Shikun Zhang, Chong Chen, Xiao Luo, and Xiansheng Hua.  
 
-- ``NeurIPS 2023`` **Parameter-efficient Tuning of Large-scale Multimodal Foundation Model** [\[paper\]](https://arxiv.org/abs/2305.08381), **Haixin Wang\***, Xinlong Yang\*, Jianlong Chang, Dian Jin, Jinan Sun, Shikun Zhang, Xiao Luo, and Qi Tian.  
+- ``NeurIPS 2023`` [Parameter-efficient Tuning of Large-scale Multimodal Foundation Model](https://arxiv.org/abs/2305.08381), **Haixin Wang\***, Xinlong Yang\*, Jianlong Chang, Dian Jin, Jinan Sun, Shikun Zhang, Xiao Luo, and Qi Tian.  
 
-- ``NeurIPS 2023`` **CARE: Modeling Interacting Dynamics Under Temporal Distribution Shift**, Xiao Luo, **Haixin Wang**, Zijie Huang, Huiyu Jiang, Abhijeet Sadashiv Gangan, Song Jiang, and Yizhou Sun.  
+- ``ICCV 2023`` [Prototypical Mixing and Retrieval-based Refinement for Label Noise-resistant Image Retrieval](https://ieeexplore.ieee.org/document/10376542), Xinlong Yang\*, **Haixin Wang\***, Jinan Sun, Shikun Zhang, Wei Xiang, Chong Chen, Xiansheng Hua, and Xiao Luo.  
 
-- ``ICCV 2023`` **Prototypical Mixing and Retrieval-based Refinement for Label Noise-resistant Image Retrieval**, Xinlong Yang\*, **Haixin Wang\***, Jinan Sun, Shikun Zhang, Wei Xiang, Chong Chen, Xiansheng Hua, and Xiao Luo.  
+- ``WWW 2023`` [DANCE: Learning A Domain Adaptive Framework for Deep Hashing](https://dl.acm.org/doi/abs/10.1145/3543507.3583445), **Haixin Wang**, Jinan Sun, Shikun Zhang, Wei Xiang, Chong Chen, Xiansheng Hua, and Xiao Luo.  
 
-- ``WWW 2023`` **DANCE: Learning A Domain Adaptive Framework for Deep Hashing** [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3543507.3583445), **Haixin Wang**, Jinan Sun, Shikun Zhang, Wei Xiang, Chong Chen, Xiansheng Hua, and Xiao Luo.  
+- ``TIP 2023`` [Towards Effective Domain Adaptive Retrieval](https://ieeexplore.ieee.org/document/10042247), **Haixin Wang**, Jinan Sun, Shikun Zhang, Wei Xiang, Chong Chen, Xiansheng Hua, and Xiao Luo.  
 
-- ``TIP 2023`` **Towards Effective Domain Adaptive Retrieval** [\[paper\]](https://ieeexplore.ieee.org/document/10042247), **Haixin Wang**, Jinan Sun, Shikun Zhang, Wei Xiang, Chong Chen, Xiansheng Hua, and Xiao Luo.  
-
-- ``ECCV 2020`` **Stacking Networks Dynamically for Image Restoration Based on the Plug-and-Play Framework** [\[paper\]](https://link.springer.com/chapter/10.1007/978-3-030-58601-0_27), **Haixin Wang**, Tianhao Zhang, Muzhi Yu, Jinan Sun, Wei Ye, Chen Wang, and Shikun Zhang. 
+- ``ECCV 2020`` [Stacking Networks Dynamically for Image Restoration Based on the Plug-and-Play Framework](https://link.springer.com/chapter/10.1007/978-3-030-58601-0_27), **Haixin Wang**, Tianhao Zhang, Muzhi Yu, Jinan Sun, Wei Ye, Chen Wang, and Shikun Zhang. 
 
 
 
