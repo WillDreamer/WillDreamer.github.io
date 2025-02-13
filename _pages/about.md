@@ -42,7 +42,7 @@ Hello 👋, I am Haixin Wang (汪海昕). I'm the first year CS PhD student at U
 
 
 # 🔖 Selected Publications (* equal contribution, † corresponding author)
-- ``Arxiv 2024`` [Recent advances on machine learning for computational fluid dynamics: A survey](https://arxiv.org/abs/2408.12171), **Haixin Wang**, Yadi Cao, Zijie Huang, Yuxuan Liu, Peiyan Hu, Xiao Luo, Zezheng Song, Wanjia Zhao, Jilin Liu, Jinan Sun, Shikun Zhang, Long Wei, Yue Wang, Tailin Wu, Zhi-Ming Ma, and Yizhou Sun. [![](https://img.shields.io/github/stars/WillDreamer/Awesome-AI4CFD?style=social&label=Code+Stars)](https://github.com/WillDreamer/Awesome-AI4CFD)
+- ``Arxiv 2024`` [Recent Advances on Machine Learning for Computational Fluid Dynamics: A Survey](https://arxiv.org/abs/2408.12171), **Haixin Wang**, Yadi Cao, Zijie Huang, Yuxuan Liu, Peiyan Hu, Xiao Luo, Zezheng Song, Wanjia Zhao, Jilin Liu, Jinan Sun, Shikun Zhang, Long Wei, Yue Wang, Tailin Wu, Zhi-Ming Ma, and Yizhou Sun. [![](https://img.shields.io/github/stars/WillDreamer/Awesome-AI4CFD?style=social&label=Code+Stars)](https://github.com/WillDreamer/Awesome-AI4CFD)
 
 - ``ACM MM 2024`` [PastNet: Introducing Physical Inductive Biases for Spatio-temporal Video Prediction](https://dl.acm.org/doi/abs/10.1145/3664647.3681489), Hao Wu, Fan Xu, Chong Chen, Xian-Sheng Hua, Xiao Luo, and **Haixin Wang<sup>†</sup>**.[![](https://img.shields.io/github/stars/easylearningscores/pastnet?style=social&label=Code+Stars)](https://github.com/easylearningscores/pastnet)
 
