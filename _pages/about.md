@@ -34,9 +34,9 @@ Hello, I am Haixin Wang (汪海昕). I'm the first year CS PhD student at UCLA s
 
 
 # 💼 Internships &amp; Visiting Scholar
-- *2024.03 - Now*, Westlake University.
-- *2023.12 - 2024.03*, Microsoft Research Asia.
-- *2020.03 - 2020.09*, Tsinghua University.
+- *2024.03 - Now*, Visiting Scholar, Westlake University.
+- *2023.12 - 2024.03*, AI4Science, Reasearch Intern, Microsoft Research Asia.
+- *2020.03 - 2020.09*, Reasearch Intern, Tsinghua University.
 
 # 🔖 Selected Publications (* means equal contribution)
 - ``ICLR 2024``[BENO: Boundary-embedded Neural Operators for Elliptic PDEs](https://openreview.net/forum?id=ZZTkLDRmkg&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2024%2FConference%2FAuthors%23your-submissions)), **Haixin Wang\***, Jiaxin Li\*, Anubhav Dwivedi, Kentaro Hara, and Tailin Wu. [![](https://img.shields.io/github/stars/AI4Science-WestlakeU/beno?style=social&label=Code+Stars)](https://github.com/AI4Science-WestlakeU/beno) 
