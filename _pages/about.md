@@ -20,17 +20,19 @@ redirect_from:
 Hello, I am Haixin Wang (汪海昕). I'm the first year CS PhD student at UCLA supervised by Prof. <a href="https://web.cs.ucla.edu/~yzsun/">Yizhou Sun</a>. I received the M.S. degree from Peking University. My main research interests include AI for Science and Multi-modal Learning. I have published several papers at the top international AI Conferences / Journals with total <a href='https://scholar.google.com/citations?user=RGZUJOkAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=google citations"></a>. If you are interested in collaboration, feel free to email me at whx[at]cs.ucla.edu (please replace [at] with @).
 
 # 📖 Research interests:
+- Multi-modal Large Langugae Model.
+  - Multi-modal Understanding & Generation.
+  - Text-to-Video Generation.
 - AI for Science.
   - Scientific Foundation Model.
   - Fluid &amp; Molecular Dynamics.
   - Bioinformatics &amp; Multi-Omics
-- Multi-modal Large Langugae Model.
-  - Multi-modal Understanding & Generation.
-  - Text-to-Video Generation.
+
 
 # 🔥 News
+- *2025.01*: &nbsp;🎉🎉 One paper is acceppted as oral by AAAI 2025.
 - *2024.09*: &nbsp;🎉🎉 I joined the [UCLA DATA MINING LAB](https://ucla-dm.github.io/DM_website/index.html) as a PhD student.
-- *2024.01*: &nbsp;🎉🎉 One paper is acceppted by ICLR2024.
+- *2024.01*: &nbsp;🎉🎉 One paper is acceppted by ICLR 2024.
 
 
 # 💼 Internships &amp; Visiting Scholar
@@ -39,7 +41,7 @@ Hello, I am Haixin Wang (汪海昕). I'm the first year CS PhD student at UCLA s
 - *2020.03 - 2020.09*, Reasearch intern, Tsinghua University.
 
 # 🔖 Selected Publications (* equal contribution, † corresponding author)
-- ``Arxiv 2024`` [Recent advances on machine learning for computational fluid dynamics: A survey](https://arxiv.org/abs/2408.12171), **Haixin Wang\***, Yadi Cao, Zijie Huang, Yuxuan Liu, Peiyan Hu, Xiao Luo, Zezheng Song, Wanjia Zhao, Jilin Liu, Jinan Sun, Shikun Zhang, Long Wei, Yue Wang, Tailin Wu, Zhi-Ming Ma, and Yizhou Sun. [![](https://img.shields.io/github/stars/WillDreamer/Awesome-AI4CFD?style=social&label=Code+Stars)](https://github.com/WillDreamer/Awesome-AI4CFD)
+- ``Arxiv 2024`` [Recent advances on machine learning for computational fluid dynamics: A survey](https://arxiv.org/abs/2408.12171), **Haixin Wang**, Yadi Cao, Zijie Huang, Yuxuan Liu, Peiyan Hu, Xiao Luo, Zezheng Song, Wanjia Zhao, Jilin Liu, Jinan Sun, Shikun Zhang, Long Wei, Yue Wang, Tailin Wu, Zhi-Ming Ma, and Yizhou Sun. [![](https://img.shields.io/github/stars/WillDreamer/Awesome-AI4CFD?style=social&label=Code+Stars)](https://github.com/WillDreamer/Awesome-AI4CFD)
 
 - ``ACM MM 2024`` [PastNet: Introducing Physical Inductive Biases for Spatio-temporal Video Prediction](https://dl.acm.org/doi/abs/10.1145/3664647.3681489), Hao Wu, Fan Xu, Chong Chen, Xian-Sheng Hua, Xiao Luo, and **Haixin Wang<sup>†</sup>**.[![](https://img.shields.io/github/stars/easylearningscores/pastnet?style=social&label=Code+Stars)](https://github.com/easylearningscores/pastnet)
 
