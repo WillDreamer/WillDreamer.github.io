@@ -22,8 +22,8 @@ Hello, I am Haixin Wang (汪海昕). I'm the first year CS PhD student at UCLA s
 # 📖 Research interests:
 - AI for Science.
   - Scientific Foundation Model.
-  - Fluid \& Molecular Dynamics.
-  - Bioinformatics \& Multi-Omics
+  - Fluid &amp; Molecular Dynamics.
+  - Bioinformatics &amp; Multi-Omics
 - Multi-modal Large Langugae Model.
   - Multi-modal Understanding & Generation.
   - Text-to-Video Generation.
@@ -33,7 +33,7 @@ Hello, I am Haixin Wang (汪海昕). I'm the first year CS PhD student at UCLA s
 - *2024.01*: &nbsp;🎉🎉 One paper is acceppted by ICLR2024.
 
 
-# 💼 Internships \& Visiting Scholar
+# 💼 Internships &amp; Visiting Scholar
 - *2024.03 - Now*, Westlake University.
 - *2023.12 - 2024.03*, Microsoft Research Asia.
 - *2020.03 - 2020.09*, Tsinghua University.
