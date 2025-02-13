@@ -5,33 +5,13 @@ main:
 
   - title: "News"
     url: "/#-news"
-  
-  - title: "Educations"
-    url: "/#-educations"
 
-  - title: "Internships"
+  - title: "Internships & Visiting Scholar"
     url: "/#-internships"
 
   - title: "Selected Publications"
     url: "/#-selected-publications"
     
-  - title: "Preprints"
-    url: "/#-preprints"
-
-  - title: "Publications"
-    url: "/#-publications"
-
-  - title: "Selected Projects"
-    url: "/#-selected-projects"
-
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
-    
   - title: "Academic Services"
     url: "/#-academic-services"
   
-  - title: "Teaching Experience"
-    url: "/#-teaching-experience"
-  
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
