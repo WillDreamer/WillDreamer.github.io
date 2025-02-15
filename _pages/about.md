@@ -36,7 +36,7 @@ Hello 👋, I am Haixin Wang (汪海昕). I'm the first year CS PhD student at U
 
 
 # 💼 Internships &amp; Visiting Scholar
-- *2024.03 - Now*, Visiting scholar, Westlake University.
+- *2023.09 - 2024.10*, Visiting scholar, Westlake University.
 - *2023.12 - 2024.03*, AI4Science reasearch intern, Microsoft Research Asia.
 - *2020.03 - 2020.09*, Reasearch intern, Tsinghua University.
 
