@@ -30,14 +30,14 @@ Hello 👋, I am Haixin Wang (汪海昕). I'm the first year CS PhD student at U
 
 
 # 🔥 News
-- *2025.01*: &nbsp;🎉🎉 One paper is acceppted as oral by AAAI 2025.
+- *2025.01*: &nbsp;🎉🎉 One paper is accepted as oral by AAAI 2025.
 - *2024.09*: &nbsp;🎉🎉 I joined the [UCLA DATA MINING LAB](https://ucla-dm.github.io/DM_website/index.html) as a PhD student.
-- *2024.01*: &nbsp;🎉🎉 One paper is acceppted by ICLR 2024.
+- *2024.01*: &nbsp;🎉🎉 One paper is accepted by ICLR 2024.
 
 
 # 💼 Internships &amp; Visiting Scholar
 - *2023.09 - 2024.10*, Visiting scholar, Westlake University.
-- *2023.12 - 2024.03*, AI4Science reasearch intern, Microsoft Research Asia.
+- *2023.12 - 2024.03*, AI4Science research intern, Microsoft Research Asia.
 - *2020.03 - 2020.09*, Reasearch intern, Tsinghua University.
 
 
