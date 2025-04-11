@@ -22,7 +22,7 @@ Hello 👋, I am Haixin Wang (汪海昕). I'm the first year CS PhD student at U
 # 📖 Research interests:
 - Multi-modal Large Language Model
   - Multi-modal Understanding & Generation
-  - Text-to-Video Generation
+  - Video Generation
 - AI for Science
   - Scientific Foundation Model
   - Fluid &amp; Molecular Dynamics
@@ -63,7 +63,7 @@ Hello 👋, I am Haixin Wang (汪海昕). I'm the first year CS PhD student at U
 
 
 # 📄 Academic Services
-- Reviewer for Conferences: KDD'23, ICCV'23, NeurIPS'23, AAAI'24, ICLR'24, SDM'24, CVPR'24, ECCV'24, ACM MM'24, ICLR'25, ICML'25, KDD'25.
+- Reviewer for Conferences: KDD'23, ICCV'23, NeurIPS'23, AAAI'24, ICLR'24, SDM'24, CVPR'24, ECCV'24, ACM MM'24, ICLR'25, ICML'25, KDD'25, ACM MM'25, NeurIPS'25.
 - Reviewer for Journals: TIFS, Physics of fluids.
 
 
