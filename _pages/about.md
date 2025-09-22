@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello 👋, I am Haixin Wang (汪海昕). I'm the first year CS PhD student at UCLA supervised by Prof. <a href="https://web.cs.ucla.edu/~yzsun/">Yizhou Sun</a>. I received the M.S. degree from Peking University. My main research interests include AI for Science and Multi-modal Large Langugae Model. I have published several papers at the top international AI Conferences/Journals with total <a href='https://scholar.google.com/citations?user=RGZUJOkAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=google citations"></a>. If you are interested in collaboration, feel free to email me at whx@cs.ucla.edu.
+Hello 👋, I am Haixin Wang (汪海昕). I'm the second year CS PhD student at UCLA supervised by Prof. <a href="https://web.cs.ucla.edu/~yzsun/">Yizhou Sun</a>. I received the M.S. degree from Peking University. My main research interests include AI for Science and Multi-modal Large Langugae Model. I have published several papers at the top international AI Conferences/Journals with total <a href='https://scholar.google.com/citations?user=RGZUJOkAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=google citations"></a>. If you are interested in collaboration, feel free to email me at whx@cs.ucla.edu.
 
 # 📖 Research interests:
 - Large Language Model (LLM)
