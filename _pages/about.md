@@ -21,9 +21,9 @@ Hello 👋, I am Haixin Wang (汪海昕). I'm the first year CS PhD student at U
 
 # 📖 Research interests:
 - Large Language Model (LLM)
+  - Agentic RL
   - LLM Post-training
   - Multi-modal Understanding & Reasoning
-  - Video Generation
 - AI for Science (AI4Sci)
   - AI4Sci Foundation Model
   - Fluid &amp; Molecular Dynamics Modeling
