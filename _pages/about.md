@@ -30,9 +30,9 @@ Hello 👋, I am Haixin Wang (汪海昕). I am a second-year Ph.D. student in Co
 
 
 # 🔥 News
-- *2025.01*: &nbsp;🎉🎉 One paper is accepted as oral by AAAI 2025.
+- *2025.09*: &nbsp;🎉🎉 Five papers have been accepted by NeurIPS 2025.
+- *2025.01*: &nbsp;🎉🎉 One paper has been accepted as oral by AAAI 2025.
 - *2024.09*: &nbsp;🎉🎉 I joined the [UCLA DATA MINING LAB](https://ucla-dm.github.io/DM_website/index.html) as a PhD student.
-- *2024.01*: &nbsp;🎉🎉 One paper is accepted by ICLR 2024.
 
 
 # 💼 Internships &amp; Visiting Scholar
