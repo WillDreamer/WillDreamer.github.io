@@ -21,8 +21,7 @@ Hello 👋, I am Haixin Wang (汪海昕). I am a second-year Ph.D. student in Co
 
 # 📖 Research interests:
 - Large Language Model
-  - Agentic Reinforcement Learning
-  - Post-training of LLM
+  - Post-training of Agentic LLM
   - Multi-modal Understanding & Reasoning
 - AI for Science
   - AI4Sci Foundation Model
