@@ -43,6 +43,8 @@ Hello 👋, I am Haixin Wang (汪海昕). I am a second-year Ph.D. student in Co
 
 # 🔖 Selected Publications (* equal contribution, † corresponding author)
 
+- ``Arxiv 2026`` [ARLArena: A Unified Framework for Stable Agentic Reinforcement Learning](https://arxiv.org/abs/2602.21534), Xiaoxuan Wang\*, Han Zhang\*, **Haixin Wang\***, Yidan Shi, Ruoyan Li, Kaiqiao Han, Chenyi Tong, Haoran Deng, Renliang Sun, Alexander Taylor, Yanqiao Zhu, Jason Cong, Yizhou Sun, Wei Wang. [![](https://img.shields.io/github/stars/WillDreamer/ARL-Arena?style=social&label=Code+Stars)](https://github.com/WillDreamer/ARL-Arena)
+
 - ``NeurIPS 2025`` [Omni-Mol: Multitask Molecular Model for Any-to-any Modalities](https://arxiv.org/abs/2502.01074), Chengxin Hu, Hao Li, Yihe Yuan, Zezheng Song, Chenyang Zhao, and **Haixin Wang<sup>†</sup>**. [![](https://img.shields.io/github/stars/ChengxinHU/Omni-Mol?style=social&label=Code+Stars)](https://github.com/ChengxinHU/Omni-Mol)
 
 - ``Arxiv 2024`` [Recent Advances on Machine Learning for Computational Fluid Dynamics: A Survey](https://arxiv.org/abs/2408.12171), **Haixin Wang**, Yadi Cao, Zijie Huang, Yuxuan Liu, Peiyan Hu, Xiao Luo, Zezheng Song, Wanjia Zhao, Jilin Liu, Jinan Sun, Shikun Zhang, Long Wei, Yue Wang, Tailin Wu, Zhi-Ming Ma, and Yizhou Sun. [![](https://img.shields.io/github/stars/WillDreamer/Awesome-AI4CFD?style=social&label=Code+Stars)](https://github.com/WillDreamer/Awesome-AI4CFD)
@@ -51,13 +53,9 @@ Hello 👋, I am Haixin Wang (汪海昕). I am a second-year Ph.D. student in Co
 
 - ``ICLR 2024`` [BENO: Boundary-embedded Neural Operators for Elliptic PDEs](https://openreview.net/forum?id=ZZTkLDRmkg&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2024%2FConference%2FAuthors%23your-submissions)), **Haixin Wang\***, Jiaxin Li\*, Anubhav Dwivedi, Kentaro Hara, and Tailin Wu. [![](https://img.shields.io/github/stars/AI4Science-WestlakeU/beno?style=social&label=Code+Stars)](https://github.com/AI4Science-WestlakeU/beno) 
 
-- ``NeurIPS 2023`` [IDEA: An Invariant Perspective for Efficient Domain Adaptive Image Retrieval](https://openreview.net/forum?id=77i6itptQW&noteId=UyhOBFv7gB), **Haixin Wang**, Hao Wu, Jinan Sun, Shikun Zhang, Chong Chen, Xiao Luo, and Xiansheng Hua.  
-
 - ``NeurIPS 2023`` [Parameter-efficient Tuning of Large-scale Multimodal Foundation Model](https://arxiv.org/abs/2305.08381), **Haixin Wang\***, Xinlong Yang\*, Jianlong Chang, Dian Jin, Jinan Sun, Shikun Zhang, Xiao Luo, and Qi Tian. [![](https://img.shields.io/github/stars/WillDreamer/Aurora?style=social&label=Code+Stars)](https://github.com/WillDreamer/Aurora)  
 
 - ``ICCV 2023`` [Prototypical Mixing and Retrieval-based Refinement for Label Noise-resistant Image Retrieval](https://ieeexplore.ieee.org/document/10376542), Xinlong Yang\*, **Haixin Wang\***, Jinan Sun, Shikun Zhang, Wei Xiang, Chong Chen, Xiansheng Hua, and Xiao Luo. [![](https://img.shields.io/github/stars/xinlong-yang/Noise_Dense_Retrieval?style=social&label=Code+Stars)](https://github.com/xinlong-yang/Noise_Dense_Retrieval)  
-
-- ``WWW 2023`` [DANCE: Learning A Domain Adaptive Framework for Deep Hashing](https://dl.acm.org/doi/abs/10.1145/3543507.3583445), **Haixin Wang**, Jinan Sun, Shikun Zhang, Wei Xiang, Chong Chen, Xiansheng Hua, and Xiao Luo.  
 
 - ``TIP 2023`` [Towards Effective Domain Adaptive Retrieval](https://ieeexplore.ieee.org/document/10042247), **Haixin Wang**, Jinan Sun, Shikun Zhang, Wei Xiang, Chong Chen, Xiansheng Hua, and Xiao Luo. [![](https://img.shields.io/github/stars/WillDreamer/PEACE?style=social&label=Code+Stars)](https://github.com/WillDreamer/PEACE)   
 
