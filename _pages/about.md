@@ -17,15 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello 👋, I am Haixin Wang (汪海昕). I am a second-year Ph.D. student in Computer Science at UCLA, advised by Prof. <a href="https://web.cs.ucla.edu/~yzsun/">Yizhou Sun</a> and collaborating closely with Prof. <a href="https://web.cs.ucla.edu/~weiwang/">Wei Wang</a>. I received the M.S. degree from Peking University. My main research interests include Large Langugae Model (LLM), LLM-based Agent, Multimodal LLM and AI4Science. I have published several papers at the top international AI Conferences/Journals with total <a href='https://scholar.google.com/citations?user=RGZUJOkAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=google citations"></a>. If you are interested in collaboration, feel free to email me at whx@cs.ucla.edu.
+Hello 👋, I am Haixin Wang (汪海昕). I am a second-year Ph.D. student in Computer Science at UCLA, advised by Prof. <a href="https://web.cs.ucla.edu/~yzsun/">Yizhou Sun</a> and collaborating closely with Prof. <a href="https://web.cs.ucla.edu/~weiwang/">Wei Wang</a>. I received the M.S. degree from Peking University. My main research interests include LLM Post-training, Agentic Systems, and Multimodal Learning. I have published several papers at the top international AI Conferences/Journals with total <a href='https://scholar.google.com/citations?user=RGZUJOkAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=google citations"></a>. If you are interested in collaboration, feel free to email me at whx@cs.ucla.edu.
 
 # 📖 Research interests:
-- Large Language Model
-  - Post-training of Agentic LLM
-  - Multi-modal Understanding & Reasoning
-- AI for Science
-  - AI4Sci Foundation Model
-  - Fluid &amp; Molecular Dynamics Modeling
+- LLM Post-training
+  - Agentic RL
+  - Inference Acceleration
+- Agentic System
+  - Test-time Scaling
+  - Agent Harness
 
 
 # 🔥 News
