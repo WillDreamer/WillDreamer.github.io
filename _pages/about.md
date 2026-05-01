@@ -29,21 +29,22 @@ Hello 👋, I am Haixin Wang (汪海昕). I am a second-year Ph.D. student in Co
 
 
 # 🔥 News
+- *2026.04*: &nbsp;🎉🎉 Two papers (One Spotlight) have been accepted by ICML 2026.
 - *2025.09*: &nbsp;🎉🎉 Five papers have been accepted by NeurIPS 2025.
 - *2025.01*: &nbsp;🎉🎉 One paper has been accepted as oral by AAAI 2025.
 - *2024.09*: &nbsp;🎉🎉 I joined the [UCLA DATA MINING LAB](https://ucla-dm.github.io/DM_website/index.html) as a PhD student.
 
 
 # 💼 Internships &amp; Visiting Scholar
+- *2026.03 - Present*, Student researcher intern, Microsoft CoreAI. 
 - *2025.06 - 2025.11*, Applied scientist intern, Amazon. 
 - *2023.09 - 2024.10*, Visiting scholar, Westlake University.
 - *2023.12 - 2024.03*, AI4Science research intern, Microsoft Research Asia.
-- *2020.03 - 2020.09*, Reasearch intern, Tsinghua University.
 
 
 # 🔖 Selected Publications (* equal contribution, † corresponding author)
 
-- ``Arxiv 2026`` [ARLArena: A Unified Framework for Stable Agentic Reinforcement Learning](https://arxiv.org/abs/2602.21534), Xiaoxuan Wang\*, Han Zhang\*, **Haixin Wang\***, Yidan Shi, Ruoyan Li, Kaiqiao Han, Chenyi Tong, Haoran Deng, Renliang Sun, Alexander Taylor, Yanqiao Zhu, Jason Cong, Yizhou Sun, Wei Wang. [![](https://img.shields.io/github/stars/WillDreamer/ARL-Arena?style=social&label=Code+Stars)](https://github.com/WillDreamer/ARL-Arena)
+- ``ICML 2026`` [ARLArena: A Unified Framework for Stable Agentic Reinforcement Learning](https://arxiv.org/abs/2602.21534), Xiaoxuan Wang\*, Han Zhang\*, **Haixin Wang\***, Yidan Shi, Ruoyan Li, Kaiqiao Han, Chenyi Tong, Haoran Deng, Renliang Sun, Alexander Taylor, Yanqiao Zhu, Jason Cong, Yizhou Sun, Wei Wang. [![](https://img.shields.io/github/stars/WillDreamer/ARL-Arena?style=social&label=Code+Stars)](https://github.com/WillDreamer/ARL-Arena)
 
 - ``NeurIPS 2025`` [Omni-Mol: Multitask Molecular Model for Any-to-any Modalities](https://arxiv.org/abs/2502.01074), Chengxin Hu, Hao Li, Yihe Yuan, Zezheng Song, Chenyang Zhao, and **Haixin Wang<sup>†</sup>**. [![](https://img.shields.io/github/stars/ChengxinHU/Omni-Mol?style=social&label=Code+Stars)](https://github.com/ChengxinHU/Omni-Mol)
 
