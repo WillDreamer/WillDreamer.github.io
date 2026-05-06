@@ -44,7 +44,7 @@ Hello 👋, I am Haixin Wang (汪海昕). I am a second-year Ph.D. student in Co
 
 # 🔖 Selected Publications (* equal contribution, † corresponding author)
 
-- <img src="https://img.shields.io/badge/ICML%202026-Spotlight-f59e0b?style=flat-square" /> [**T2PO: Uncertainty-Guided Exploration Control for Stable Multi-Turn Agentic Reinforcement Learning**](https://arxiv.org/abs/2605.02178). **Haixin Wang**, Hejie Cui, Chenwei Zhang, Xin Liu, Shuowei Jin, Shijie Geng, Xinyang Zhang, Nasser Zalmout, Zhenyu Shi, and Yizhou Sun. [![](https://img.shields.io/github/stars/WillDreamer/T2PO?style=social&label=Code+Stars)](https://github.com/WillDreamer/T2PO)
+- <img src="https://img.shields.io/badge/ICML%202026-Spotlight-f59e0b?style=flat-square" /> [**T$^2$PO: Uncertainty-Guided Exploration Control for Stable Multi-Turn Agentic Reinforcement Learning**](https://arxiv.org/abs/2605.02178). **Haixin Wang**, Hejie Cui, Chenwei Zhang, Xin Liu, Shuowei Jin, Shijie Geng, Xinyang Zhang, Nasser Zalmout, Zhenyu Shi, and Yizhou Sun. [![](https://img.shields.io/github/stars/WillDreamer/T2PO?style=social&label=Code+Stars)](https://github.com/WillDreamer/T2PO)
 
 - <img src="https://img.shields.io/badge/ICML%202026-Conference-2563eb?style=flat-square" /> [**ARLArena: A Unified Framework for Stable Agentic Reinforcement Learning**](https://arxiv.org/abs/2602.21534). Xiaoxuan Wang\*, Han Zhang\*, **Haixin Wang\***, Yidan Shi, Ruoyan Li, Kaiqiao Han, Chenyi Tong, Haoran Deng, Renliang Sun, Alexander Taylor, Yanqiao Zhu, Jason Cong, Yizhou Sun, Wei Wang. [![](https://img.shields.io/github/stars/WillDreamer/ARL-Arena?style=social&label=Code+Stars)](https://github.com/WillDreamer/ARL-Arena)
 
