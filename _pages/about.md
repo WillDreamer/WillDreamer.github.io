@@ -3,7 +3,7 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -42,7 +42,9 @@ Hello 👋, I am Haixin Wang (汪海昕). I am a second-year Ph.D. student in Co
 - *2023.12 - 2024.03*, AI4Science research intern, Microsoft Research Asia.
 
 
-# 🔖 Selected Publications (* equal contribution, † corresponding author)
+<h1 align="center">🔖 Selected Publications</h1>
+
+<p align="center"><em>* equal contribution, † corresponding author</em></p>
 
 - <img src="https://img.shields.io/badge/ICML%202026-Spotlight-f59e0b?style=flat-square" /> [**T<sup>2</sup>PO: Uncertainty-Guided Exploration Control for Stable Multi-Turn Agentic Reinforcement Learning**](https://arxiv.org/abs/2605.02178). **Haixin Wang**, Hejie Cui, Chenwei Zhang, Xin Liu, Shuowei Jin, Shijie Geng, Xinyang Zhang, Nasser Zalmout, Zhenyu Shi, and Yizhou Sun. [![](https://img.shields.io/github/stars/WillDreamer/T2PO?style=social&label=Code+Stars)](https://github.com/WillDreamer/T2PO)
 
