@@ -109,7 +109,8 @@ h1:before, .anchor:before {
 }
 
 .pub-badge {
-  width: 150px;
-  height: auto;
-  vertical-align: middle;
+  width: 155px;
+  height: 20px;
+  object-fit: fill;
+  vertical-align: text-bottom;
 }
