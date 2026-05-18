@@ -29,6 +29,7 @@ Hello 👋, I am Haixin Wang (汪海昕). I am a second-year Ph.D. student in Co
 
 
 # 🔥 News
+- *2026.05*: &nbsp;🎉🎉 One paper has been accepted by KDD 2026.
 - *2026.04*: &nbsp;🎉🎉 Two papers (One Spotlight) have been accepted by ICML 2026.
 - *2025.09*: &nbsp;🎉🎉 Five papers have been accepted by NeurIPS 2025.
 - *2025.01*: &nbsp;🎉🎉 One paper has been accepted as oral by AAAI 2025.
@@ -46,6 +47,8 @@ Hello 👋, I am Haixin Wang (汪海昕). I am a second-year Ph.D. student in Co
 - [**T<sup>2</sup>PO: Uncertainty-Guided Exploration Control for Stable Multi-Turn Agentic Reinforcement Learning**](https://arxiv.org/abs/2605.02178). **Haixin Wang**, Hejie Cui, Chenwei Zhang, Xin Liu, Shuowei Jin, Shijie Geng, Xinyang Zhang, Nasser Zalmout, Zhenyu Shi, and Yizhou Sun. <img src="https://img.shields.io/badge/ICML%202026-Spotlight-f59e0b?style=flat-square" />  [![](https://img.shields.io/github/stars/WillDreamer/T2PO?style=social&label=Code+Stars)](https://github.com/WillDreamer/T2PO)
 
 - [**ARLArena: A Unified Framework for Stable Agentic Reinforcement Learning**](https://arxiv.org/abs/2602.21534). Xiaoxuan Wang\*, Han Zhang\*, **Haixin Wang\***, Yidan Shi, Ruoyan Li, Kaiqiao Han, Chenyi Tong, Haoran Deng, Renliang Sun, Alexander Taylor, Yanqiao Zhu, Jason Cong, Yizhou Sun, Wei Wang. <img src="https://img.shields.io/badge/ICML%202026-Conference-2563eb?style=flat-square" /> [![](https://img.shields.io/github/stars/WillDreamer/ARL-Arena?style=social&label=Code+Stars)](https://github.com/WillDreamer/ARL-Arena)
+
+- [**FD-Bench: A Modular and Fair Benchmark for Data-driven Fluid Simulation**](https://arxiv.org/abs/2505.20349). Haixin Wang, Ruoyan Li, Fred Xu, Fang Sun, Kaiqiao Han, Zijie Huang, Ching Chang, Xiao Luo, Wei Wang, Yizhou Sun. <img src="https://img.shields.io/badge/KDD%202026-Conference-2563eb?style=flat-square" /> [![](https://img.shields.io/github/stars/WillDreamer/FD-Bench?style=social&label=Code+Stars)](https://github.com/WillDreamer/FD-Bench)
 
 - [**Omni-Mol: Multitask Molecular Model for Any-to-any Modalities**](https://arxiv.org/abs/2502.01074). Chengxin Hu, Hao Li, Yihe Yuan, Zezheng Song, Chenyang Zhao, and **Haixin Wang<sup>†</sup>**. <img src="https://img.shields.io/badge/NeurIPS%202025-Conference-2563eb?style=flat-square" /> [![](https://img.shields.io/github/stars/ChengxinHU/Omni-Mol?style=social&label=Code+Stars)](https://github.com/ChengxinHU/Omni-Mol)
 
