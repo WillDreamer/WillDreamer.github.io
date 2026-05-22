@@ -22,16 +22,16 @@ Hello 👋, I am Haixin Wang (汪海昕). I am a second-year Ph.D. student in Co
 # 📖 Research Interests:
 Thesis: Towards Real-world Agentic Systems
 - Agentic LLM Post-training
-  - Large-scale Fine-tuning (NeurIPS 23, 25, AAAI 24)
-  - Agentic Reinforcement Learning (ICML 26)
+  - Large-scale Fine-tuning (NeurIPS'23, 25, AAAI'24)
+  - Agentic Reinforcement Learning (ICML'26)
   - RL Infra Acceleration
 - Agentic System Deployment
-  - Agent Harness
+  - Agent Scaffolding &amp Harness
   - Multi-agent Coordination
 - Real-world Environment
   - Environment Scaling
-  - World Model Simulation (ACM MM 24)
-  - Physics-informed Learning (ICLR 24, KDD 26)
+  - World Model Simulation (ACM MM'24)
+  - Physics-informed Learning (ICLR'24, KDD'26)
 
 
 # 🔥 News
