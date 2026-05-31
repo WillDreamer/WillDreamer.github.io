@@ -28,6 +28,7 @@ Thesis: Towards Real-world Agentic Systems
 - Agentic System Deployment
   - Agent Scaffolding & Harness
   - Multi-agent Coordination
+  - Long Horizon Agent
 - Real-world Environment
   - Environment Scaling 
   - World Model Simulation (ACM MM'24)
