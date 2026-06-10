@@ -44,8 +44,9 @@ Thesis: Towards Real-world Agentic Systems
 
 
 # 💼 Internships &amp; Visiting Scholar
-- *2026.03 - Present*, Student researcher intern, Microsoft CoreAI. 
-- *2025.06 - 2025.11*, Applied scientist intern, Amazon. 
+- *2026.06 - Present*, Applied scientist intern, Amazon Rufus. 
+- *2026.03 - 2026.06*, Student researcher intern, Microsoft CoreAI. 
+- *2025.06 - 2025.11*, Applied scientist intern, Amazon Rufus. 
 - *2023.09 - 2024.10*, Visiting scholar, Westlake University.
 - *2023.12 - 2024.03*, AI4Science research intern, Microsoft Research Asia.
 
