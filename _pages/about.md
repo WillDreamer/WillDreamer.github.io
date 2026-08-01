@@ -43,11 +43,10 @@ Thesis: Towards Real-world Agentic Systems
 - *2024.09*: &nbsp;🎉🎉 I joined the [UCLA DATA MINING LAB](https://ucla-dm.github.io/DM_website/index.html) as a PhD student.
 
 
-# 💼 Internships &amp; Visiting Scholar
-- *2026.06 - Present*, Applied Scientist Intern, Amazon Rufus, Rufus Product Team. 
-- *2026.03 - 2026.06*, Research Scientist Intern, Microsoft CoreAI, GitHub Copilot Team. 
-- *2025.06 - 2025.11*, Applied Scientist Intern, Amazon Rufus, Store Foundation Model Team. 
-- *2023.09 - 2024.10*, Visiting Scholar, Westlake University.
+# 💼 Industry Experience
+- *2026.06 – Present*, Applied Scientist Intern, Amazon (Rufus, Rufus-Product Team)
+- *2026.03 – 2026.06*, Research Scientist Intern, Microsoft (CoreAI, GitHub Copilot Team)
+- *2025.06 – 2025.11*, Applied Scientist Intern, Amazon (Rufus, Foundation Model Team)
 - *2023.12 - 2024.03*, AI4Science Research Intern, Microsoft Research Asia.
 
 
