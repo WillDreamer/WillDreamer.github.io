@@ -25,7 +25,7 @@ Hello 👋, I am Haixin Wang (汪海昕). I am a second-year Ph.D. student in Co
 > **Thesis: Towards Real-world Agentic Systems**
 
 - **Agentic LLM Post-training** — Large-scale fine-tuning (NeurIPS'23, NeurIPS'25, AAAI'24), Agentic RL (ICML'26), RL infrastructure
-- **Recursive Self-improvement** — Agent harness, Environment scaling, Agent continue learning
+- **Recursive Self-improvement** — Agent harness (EMNLP Findings'26), Environment scaling, Agent continue learning
 - **Real-world Environments** — Human-interactive agent, World model simulation (ACM MM'24), Physical AI (ICLR'24, KDD'26)
 
 
@@ -49,21 +49,17 @@ Hello 👋, I am Haixin Wang (汪海昕). I am a second-year Ph.D. student in Co
 
 - [**ARLArena: A Unified Framework for Stable Agentic Reinforcement Learning**](https://arxiv.org/abs/2602.21534). Xiaoxuan Wang\*, Han Zhang\*, **Haixin Wang\***, Yidan Shi, Ruoyan Li, Kaiqiao Han, Chenyi Tong, Haoran Deng, Renliang Sun, Alexander Taylor, Yanqiao Zhu, Jason Cong, Yizhou Sun, Wei Wang. <img src="https://img.shields.io/badge/ICML%202026-Conference-2563eb?style=flat-square" /> [![](https://img.shields.io/github/stars/WillDreamer/ARL-Arena?style=social&label=Code+Stars)](https://github.com/WillDreamer/ARL-Arena)
 
+- [**HarnessBridge: Learnable Bidirectional Controller for LLM Agent Harness**](https://arxiv.org/abs/2606.12882). Xiaoxuan Wang\*, **Haixin Wang\***, Alexander Taylor, Jason Cong, Yizhou Sun, Wei Wang. <img src="https://img.shields.io/badge/EMNLP%202026-Conference-b31b1b?style=flat-square" /> [![](https://img.shields.io/github/stars/mandyyyyii/HarnessBridge?style=social&label=Code+Stars)](https://github.com/mandyyyyii/HarnessBridge)
+
 - [**FD-Bench: A Modular and Fair Benchmark for Data-driven Fluid Simulation**](https://arxiv.org/abs/2505.20349). Haixin Wang, Ruoyan Li, Fred Xu, Fang Sun, Kaiqiao Han, Zijie Huang, Ching Chang, Xiao Luo, Wei Wang, Yizhou Sun. <img src="https://img.shields.io/badge/KDD%202026-Conference-2563eb?style=flat-square" /> [![](https://img.shields.io/github/stars/WillDreamer/FD-Bench?style=social&label=Code+Stars)](https://github.com/WillDreamer/FD-Bench)
 
 - [**Omni-Mol: Multitask Molecular Model for Any-to-any Modalities**](https://arxiv.org/abs/2502.01074). Chengxin Hu, Hao Li, Yihe Yuan, Zezheng Song, Chenyang Zhao, and **Haixin Wang<sup>†</sup>**. <img src="https://img.shields.io/badge/NeurIPS%202025-Conference-2563eb?style=flat-square" /> [![](https://img.shields.io/github/stars/ChengxinHU/Omni-Mol?style=social&label=Code+Stars)](https://github.com/ChengxinHU/Omni-Mol)
 
 - [**Recent Advances on Machine Learning for Computational Fluid Dynamics: A Survey**](https://arxiv.org/abs/2408.12171). **Haixin Wang**, Yadi Cao, Zijie Huang, Yuxuan Liu, Peiyan Hu, Xiao Luo, Zezheng Song, Wanjia Zhao, Jilin Liu, Jinan Sun, Shikun Zhang, Long Wei, Yue Wang, Tailin Wu, Zhi-Ming Ma, and Yizhou Sun. <img src="https://img.shields.io/badge/arXiv%202024-Preprint-b31b1b?style=flat-square" /> [![](https://img.shields.io/github/stars/WillDreamer/Awesome-AI4CFD?style=social&label=Code+Stars)](https://github.com/WillDreamer/Awesome-AI4CFD)
 
-- [**PastNet: Introducing Physical Inductive Biases for Spatio-temporal Video Prediction**](https://dl.acm.org/doi/abs/10.1145/3664647.3681489). Hao Wu, Fan Xu, Chong Chen, Xian-Sheng Hua, Xiao Luo, and **Haixin Wang<sup>†</sup>**. <img src="https://img.shields.io/badge/ACM%20MM%202024-Conference-b31b1b?style=flat-square" /> [![](https://img.shields.io/github/stars/easylearningscores/pastnet?style=social&label=Code+Stars)](https://github.com/easylearningscores/pastnet)
-
 - [**BENO: Boundary-embedded Neural Operators for Elliptic PDEs**](https://openreview.net/forum?id=ZZTkLDRmkg&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2024%2FConference%2FAuthors%23your-submissions)). **Haixin Wang\***, Jiaxin Li\*, Anubhav Dwivedi, Kentaro Hara, and Tailin Wu. <img src="https://img.shields.io/badge/ICLR%202024-Conference-2563eb?style=flat-square" /> [![](https://img.shields.io/github/stars/AI4Science-WestlakeU/beno?style=social&label=Code+Stars)](https://github.com/AI4Science-WestlakeU/beno)
 
 - [**Parameter-efficient Tuning of Large-scale Multimodal Foundation Model**](https://arxiv.org/abs/2305.08381). **Haixin Wang\***, Xinlong Yang\*, Jianlong Chang, Dian Jin, Jinan Sun, Shikun Zhang, Xiao Luo, and Qi Tian. <img src="https://img.shields.io/badge/NeurIPS%202023-Conference-2563eb?style=flat-square" /> [![](https://img.shields.io/github/stars/WillDreamer/Aurora?style=social&label=Code+Stars)](https://github.com/WillDreamer/Aurora)
-
-- [**Towards Effective Domain Adaptive Retrieval**](https://ieeexplore.ieee.org/document/10042247). **Haixin Wang**, Jinan Sun, Shikun Zhang, Wei Xiang, Chong Chen, Xiansheng Hua, and Xiao Luo. <img src="https://img.shields.io/badge/IEEE%20TIP%202023-Journal-2563eb?style=flat-square" /> [![](https://img.shields.io/github/stars/WillDreamer/PEACE?style=social&label=Code+Stars)](https://github.com/WillDreamer/PEACE)
-
-- [**Stacking Networks Dynamically for Image Restoration Based on the Plug-and-Play Framework**](https://link.springer.com/chapter/10.1007/978-3-030-58601-0_27). **Haixin Wang**, Tianhao Zhang, Muzhi Yu, Jinan Sun, Wei Ye, Chen Wang, and Shikun Zhang. <img src="https://img.shields.io/badge/ECCV%202020-Conference-b31b1b?style=flat-square" /> [![](https://img.shields.io/github/stars/WillDreamer/SND?style=social&label=Code+Stars)](https://github.com/WillDreamer/SND)
 
 
 
