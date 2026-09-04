@@ -24,9 +24,9 @@ Hello 👋, I am Haixin Wang (汪海昕). I am a third-year Ph.D. candidate in C
 
 > **Thesis: Towards Real-world Agentic Systems**
 
-- **Agentic LLM Post-training** — Large-scale fine-tuning (NeurIPS'23, NeurIPS'25, AAAI'24), Agentic RL (ICML'26), RL infrastructure
-- **Recursive Self-improvement** — Agent harness (EMNLP Findings'26), Environment scaling, Agent continue learning
-- **Real-world Environments** — Human-interactive agent, World model simulation (ACM MM'24), Physical AI (ICLR'24, KDD'26)
+- **Agentic LLM Post-training** — Supervised Fine-Tuning (NeurIPS'23/'25, AAAI'24), Agentic RL (ICML'26 x2), RL Infrastructure
+- **Recursive Self-improvement** — Harness Engineering (EMNLP Findings'26), Environment Evolution, Agent Continue Learning
+- **Real-world Environments** — AI for AI, Human-interactive Coding, Physical AI (ACM MM'24, ICLR'24, KDD'26)
 
 
 # 🔥 News
