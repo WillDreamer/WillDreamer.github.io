@@ -18,39 +18,61 @@ permissions:
   contents: write
 
 jobs:
-  build:
-    runs-on: macos-15
+  fetch:
+    name: Fetch attempt ${{ matrix.attempt }}
+    runs-on: ubuntu-24.04
     timeout-minutes: 10
+    # A retry gets a fresh runner. Scholar intermittently blocks hosted IPs.
+    # The verify job below fails the workflow unless an attempt publishes data.
+    continue-on-error: true
+    strategy:
+      fail-fast: false
+      max-parallel: 1
+      matrix:
+        attempt: [1, 2, 3]
     steps:
       - uses: actions/checkout@v7
-      - uses: actions/setup-python@v7
-        with:
-          python-version: '3.12'
-          cache: pip
-          cache-dependency-path: google_scholar_crawler/requirements.txt
-      - name: Install dependencies
-        run: |
-          python -m pip install -r google_scholar_crawler/requirements.txt
-          python -m pip check
-      - name: Test failure handling
-        run: python -m unittest discover -s google_scholar_crawler -v
-      - name: Fetch citation data
-        working-directory: google_scholar_crawler
-        run: python main.py --timeout 180
-        env:
-          GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
       - name: Check out published data
         uses: actions/checkout@v7
         with:
           ref: google-scholar-stats
           path: citation-data
+      - name: Skip remaining attempts after a successful publication
+        id: status
+        run: |
+          if [ "$(cat citation-data/.last_successful_run 2>/dev/null || true)" = "$GITHUB_RUN_ID:$GITHUB_RUN_ATTEMPT" ]; then
+            echo 'updated=true' >> "$GITHUB_OUTPUT"
+            echo 'An earlier attempt already published fresh citation data.'
+          fi
+      - uses: actions/setup-python@v7
+        if: steps.status.outputs.updated != 'true'
+        with:
+          python-version: '3.12'
+          cache: pip
+          cache-dependency-path: google_scholar_crawler/requirements.txt
+      - name: Install dependencies
+        if: steps.status.outputs.updated != 'true'
+        run: |
+          python -m pip install -r google_scholar_crawler/requirements.txt
+          python -m pip check
+      - name: Test failure handling
+        if: steps.status.outputs.updated != 'true'
+        run: python -m unittest discover -s google_scholar_crawler -v
+      - name: Fetch citation data
+        if: steps.status.outputs.updated != 'true'
+        working-directory: google_scholar_crawler
+        run: python main.py --timeout 180
+        env:
+          GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
       - name: Publish citation data
+        if: steps.status.outputs.updated != 'true'
         working-directory: citation-data
         run: |
           cp ../google_scholar_crawler/results/gs_data*.json .
+          printf '%s\n' "$GITHUB_RUN_ID:$GITHUB_RUN_ATTEMPT" > .last_successful_run
           git config --local user.email "whx@cs.ucla.edu"
           git config --local user.name "WillDreamer"
-          git add gs_data.json gs_data_shieldsio.json
+          git add gs_data.json gs_data_shieldsio.json .last_successful_run
           if git diff --cached --quiet; then
             echo "Citation data is unchanged."
             exit 0
@@ -60,4 +82,33 @@ jobs:
       - name: Explain failed update
         if: failure()
         run: |
-          echo 'Citation update failed. The previously published data remains available. Check the failed step above; HTTP 403 indicates that Google Scholar blocked this runner.' >> "$GITHUB_STEP_SUMMARY"
+          echo 'This attempt failed. Previously published data remains available. A later attempt will retry on a fresh runner, up to three attempts total.' >> "$GITHUB_STEP_SUMMARY"
+
+  verify:
+    name: Verify published citation data
+    needs: fetch
+    if: ${{ !cancelled() }}
+    runs-on: ubuntu-24.04
+    timeout-minutes: 3
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: google-scholar-stats
+      - name: Require a successful publication from this run
+        run: |
+          if [ "$(cat .last_successful_run 2>/dev/null || true)" != "$GITHUB_RUN_ID:$GITHUB_RUN_ATTEMPT" ]; then
+            echo '::error::All citation update attempts failed. Previous data was preserved; inspect the fetch logs for HTTP 403 or other errors.'
+            exit 1
+          fi
+          python3 - <<'PY'
+          import json
+          import os
+          from pathlib import Path
+          author = json.loads(Path('gs_data.json').read_text())
+          badge = json.loads(Path('gs_data_shieldsio.json').read_text())
+          assert badge['message'] == str(author['citedby']), 'Citation badge does not match the profile'
+          with open(os.environ['GITHUB_STEP_SUMMARY'], 'a') as summary:
+              summary.write(f"Published {author['citedby']} citations and {len(author['publications'])} publications. Updated: {author['updated']}\n")
+          PY
