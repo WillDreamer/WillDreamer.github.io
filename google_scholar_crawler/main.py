@@ -1,8 +1,12 @@
 from scholarly import scholarly
 import jsonpickle
 import json
+import logging
 from datetime import datetime
 import os
+
+logging.basicConfig(level=logging.INFO, format='%(asctime)s %(levelname)s %(message)s')
+scholarly.set_logger(True)
 
 author: dict = scholarly.search_author_id(os.environ['GOOGLE_SCHOLAR_ID'])
 scholarly.fill(author, sections=['basics', 'indices', 'counts', 'publications'])
