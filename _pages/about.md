@@ -23,7 +23,7 @@ Hello 👋, I am Haixin Wang (汪海昕). I am a third-year Ph.D. candidate in C
 
 - **Agentic LLM Post-training** — Supervised Fine-Tuning (NeurIPS'23/'25, AAAI'24), Agentic RL (ICML'26 x2), RL Infrastructure
 - **Recursive Self-improvement** — Harness Engineering (EMNLP Findings'26), Environment Evolution, Agent Continue Learning
-- **Real-world Environments** — AI for AI, Human-interactive Coding, Physical AI (ACM MM'24, ICLR'24, KDD'26)
+- **Real-world Environments** — Personal Assistant, Human-interactive Coding, Physical AI (ACM MM'24, ICLR'24, KDD'26)
 
 
 # 🔥 News
@@ -42,6 +42,8 @@ Hello 👋, I am Haixin Wang (汪海昕). I am a third-year Ph.D. candidate in C
 
 
 # 🔖 Selected Publications (* equal contribution, † corresponding author)
+- [**PersonaCodeBench: Evaluating Coding Agents in Persona-driven Human-Interactive Sessions**](https://arxiv.org/pdf/2611.05739v1). **Haixin Wang**, Jianheng Hou, Hongyu Shen, Wenzhe Fan, and Huang et al. <img src="https://img.shields.io/badge/arXiv%202026-Preprint-b31b1b?style=flat-square" />[![](https://img.shields.io/github/stars/MatrAIx-ai/PersonaCodeBench?style=social&label=Code+Stars)](https://github.com/MatrAIx-ai/PersonaCodeBench)
+
 - [**ACLArena: Agent Continue Learning in Multi-stage Post-training**](https://arxiv.org/abs/2609.23989). **Haixin Wang**, Xiaoxuan Wang, Junkai Zhang, Han Zhang, Renliang Sun, Alexander K Taylor, Yidan Shi, Haoran Deng, Chenguang Wang, Jason Cong, Yizhou Sun, Wei Wang. <img src="https://img.shields.io/badge/arXiv%202026-Preprint-b31b1b?style=flat-square" />
 
 - [**T<sup>2</sup>PO: Uncertainty-Guided Exploration Control for Stable Multi-Turn Agentic Reinforcement Learning**](https://arxiv.org/abs/2605.02178). **Haixin Wang**, Hejie Cui, Chenwei Zhang, Xin Liu, Shuowei Jin, Shijie Geng, Xinyang Zhang, Nasser Zalmout, Zhenyu Shi, and Yizhou Sun. <img src="https://img.shields.io/badge/ICML%202026-Spotlight-f59e0b?style=flat-square" />  [![](https://img.shields.io/github/stars/WillDreamer/T2PO?style=social&label=Code+Stars)](https://github.com/WillDreamer/T2PO)
